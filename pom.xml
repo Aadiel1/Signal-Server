@@ -53,20 +53,20 @@
     <guava.version>30.1.1-jre</guava.version>
     <jaxb.version>2.3.1</jaxb.version>
     <jedis.version>2.9.0</jedis.version>
-    <lettuce.version>6.0.4.RELEASE</lettuce.version>
+    <lettuce.version>6.2.5.RELEASE</lettuce.version>
     <libphonenumber.version>8.12.45</libphonenumber.version>
     <logstash.logback.version>7.0.1</logstash.logback.version>
     <micrometer.version>1.5.3</micrometer.version>
     <mockito.version>4.3.1</mockito.version>
     <netty.version>4.1.65.Final</netty.version>
     <opentest4j.version>1.2.0</opentest4j.version>
-    <postgresql.version>42.3.3</postgresql.version>
+    <postgresql.version>42.3.9</postgresql.version>
     <protobuf.version>3.19.4</protobuf.version>
-    <pushy.version>0.15.1</pushy.version>
+    <pushy.version>0.15.3</pushy.version>
     <resilience4j.version>1.5.0</resilience4j.version>
     <semver4j.version>3.1.0</semver4j.version>
     <slf4j.version>1.7.30</slf4j.version>
-    <stripe.version>20.79.0</stripe.version>
+    <stripe.version>20.91.0</stripe.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
